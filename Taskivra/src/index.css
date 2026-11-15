@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap");
+@import "tailwindcss";
+
+/* Taskivra design tokens (taken from the Figma design system) */
+@theme {
+  --font-sans: "Inter", sans-serif;
+
+  --color-brand: #4f46d9;
+  --color-brandsoft: #eeedff;
+  --color-ink: #192238;
+  --color-muted: #637087;
+  --color-line: #e2e6ef;
+  --color-graysoft: #eef1f6;
+  --color-teal: #0e766e;
+  --color-tealsoft: #e6f5f1;
+  --color-red: #b4233a;
+  --color-redsoft: #fdecf0;
+  --color-amber: #956000;
+  --color-ambersoft: #fff3d8;
+  --color-night: #233552;
+  --color-whitemuted: #b5c3d9;
+}
